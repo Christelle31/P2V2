@@ -1,0 +1,38 @@
+header{
+	background: red;
+	display: flex;
+
+}
+
+aside{
+	background: yellow;
+}
+
+main{
+	background:blue;
+}
+
+#mainContainer{
+	display: flex;
+}
+
+#photo{
+	background: green;
+}
+
+#photo img{
+	width: 150px;
+}
+
+.subcontainer{
+	display: flex;
+}
+
+.date{
+	width: 20%;
+}
+
+.rounded-circle {
+	height: 180 px;
+	width: 180 px;
+}
